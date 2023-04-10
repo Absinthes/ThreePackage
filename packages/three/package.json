@@ -1,0 +1,21 @@
+{
+  "name": "@packages/three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.151.3",
+    "tweakpane": "^3.1.7"
+  },
+  "devDependencies": {
+    "@packages/types": "workspace:^",
+    "@types/three": "^0.150.1"
+  }
+}
